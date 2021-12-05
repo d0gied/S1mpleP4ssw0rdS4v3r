@@ -1,0 +1,10 @@
+C:\Users\nekge\Desktop\DvfuApp\dvfuApp.exe
+C:\Users\nekge\Desktop\DvfuApp\dvfuApp.dll
+C:\Users\nekge\Desktop\DvfuApp\dvfuApp.deps.json
+C:\Users\nekge\Desktop\DvfuApp\dvfuApp.runtimeconfig.json
+C:\Users\nekge\Desktop\DvfuApp\dvfuApp.pdb
+C:\Users\nekge\Desktop\DvfuApp\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nekge\Desktop\DvfuApp\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nekge\Desktop\DvfuApp\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\nekge\Desktop\DvfuApp\Nancy.dll
+C:\Users\nekge\Desktop\DvfuApp\Newtonsoft.Json.dll

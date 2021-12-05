@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>dvfuApp</id>
+    <version>1.0.0</version>
+    <authors>dvfuApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Nancy" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="X:\dvfuApp\dvfuApp\bin\Debug\netcoreapp3.1\dvfuApp.runtimeconfig.json" target="lib\netcoreapp3.1\dvfuApp.runtimeconfig.json" />
+    <file src="X:\dvfuApp\dvfuApp\bin\Debug\netcoreapp3.1\dvfuApp.dll" target="lib\netcoreapp3.1\dvfuApp.dll" />
+  </files>
+</package>
